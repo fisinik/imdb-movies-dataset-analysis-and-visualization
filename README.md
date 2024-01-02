@@ -42,6 +42,13 @@ jupyter notebook
 
 This project is a data analysis and visualization of the IMDb Movies Dataset. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/rajugc/imdb-movies-dataset-based-on-genre). The dataset contains 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc. The dataset is available in CSV format.
 
+- Phase 1: Data Preprocessing
+- Phase 2: Data Analysis
+  - 2.1. Outlier Detection
+  - 2.2. Correlation Analysis
+  - 2.3. Exploratory Data Analysis
+- Phase 3: Data Visualization
+
 ## License
 
 This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
